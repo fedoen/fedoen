@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fedoen
 - 👀 I’m interested in PHP application developement
-- 🌱 I’m currently learning Yii2
+- 🌱 I’m currently developing Yii2 applications
 
 <!---
 fedoen/fedoen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
